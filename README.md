@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **mohammedsameer74111@gmail.com**
 
-- Visite my Portfolio
-- <a href="https://sameer7.netlify.app/" target="_blank" alt="Page Not Found">
+- Visite my Portfolio  **https://sameer7.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
