@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsameer07s" alt="mohammedsameer07s" /></a> </p>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Cyber security**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://sameer07.netlify.app" target="_blank" alt="Page Not Found">
 <a href="https://instagram.com/mohammedsameer07s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedsameer07s" height="30" width="40" /></a>
 </p>
 
