@@ -1,7 +1,7 @@
 <body style="background-color:#0B1120">
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MOHAMMED%20SAMEER&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7B...snip...}"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MOHAMMED%20SAMEER&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7B}"/>
 
 <br>
 
