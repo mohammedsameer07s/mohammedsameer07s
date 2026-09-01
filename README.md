@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:667eea,100:764ba2&text=MOHAMMED%20SAMEER&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20ML%20ENTHUSIAST" />
+<img width="100%" src="assets/banner.svg" alt="MOHAMMED SAMEER banner" />
 
 <br>
 
