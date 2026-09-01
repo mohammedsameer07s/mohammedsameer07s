@@ -1,127 +1,27 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I’m Mohammed Sameer<br>I’m a Full-Stack Developer and Data Science enthusiast focused on building scalable applications and deriving insights from data. I enjoy learning new technologies, contributing to open source, and solving challenging problems.<br><br>🔭 I’m currently working on advanced React patterns and cloud architecture.<br>🌱 I’m learning DevOps practices and Docker.<br>💬 Ask me about web development, ML, or building developer tools.<br>📫 Reach me: mohammedsameer74111@gmail.com<br>
 
-<img width="100%" src="assets/banner.svg" alt="MOHAMMED SAMEER banner" />
 
-<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammedsameer07s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-sameer-65a860308/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohammed Sameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedsameer74111@gmail.com) 
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mohammedsameer07s&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mohammedsameer07s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mohammedsameer07s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedsameer07s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammedsameer07s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+###  Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 👋 Hi, I’m Mohammed Sameer
-
-I’m a Full-Stack Developer and Data Science enthusiast focused on building scalable applications and deriving insights from data. I enjoy learning new technologies, contributing to open source, and solving challenging problems.
-
-- 🔭 I’m currently working on advanced React patterns and cloud architecture.
-- 🌱 I’m learning DevOps practices and Docker.
-- 💬 Ask me about web development, ML, or building developer tools.
-- 📫 Reach me: mohammedsameer74111@gmail.com
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=googlechrome&logoColor=60A5FA)](https://sameer7.netlify.app)
-[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:mohammedsameer74111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/mohammedsameer07s)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=60A5FA)](https://instagram.com/mohammedsameer07s)
-[![Twitter](https://img.shields.io/badge/TWITTER-050505?style=for-the-badge&logo=twitter&logoColor=60A5FA)](https://twitter.com/mohammedsameer07s)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohammedsameer07s&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mohammedsameer07s&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cs,java,js,php,python&theme=dark" />
-
-### Frontend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=html,css,react,dotnet,tailwind&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=apache,mysql,nodejs&theme=dark" />
-
-### Data Science & ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Scikit--Learn-050505?style=for-the-badge&logo=scikit-learn&logoColor=60A5FA" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=mohammedsameer07s&theme=dark&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=94A3B8&icon_color=60A5FA" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedsameer07s&theme=dark&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=94A3B8&layout=compact" height="160" />
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20React%20Patterns-2563EB?style=for-the-badge&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Cloud%20Architecture-2563EB?style=for-the-badge&logo=aws&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/DevOps%20%26%20Docker-2563EB?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
-
-</div>
-
----
-
-## 🏆 Projects & Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=mohammedsameer07s&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
-
-</div>
-
----
-
-## ✍️ Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 BUILD • LEARN • CREATE
-
-<br>
-
-[![Visit Portfolio](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://sameer7.netlify.app)
-[![View Projects](https://img.shields.io/badge/VIEW%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mohammedsameer07s?tab=repositories)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:667eea,100:764ba2" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
