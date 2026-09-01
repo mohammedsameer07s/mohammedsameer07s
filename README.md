@@ -1,11 +1,11 @@
-<body style="backgrouncolor=light-black">
+<body style="background-color:#0B1120">
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MOHAMMED%20SAMEER&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DATA%20SCIENCE%20ENTHUSIAST&descSize=16&descAlignY=58&descColor=6366F1&gradient=true&color=0:2563EB,50:6D28D9,100:9333EA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MOHAMMED%20SAMEER&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7B...snip...}"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;Exploring+Data+Science;Learning+Cloud+%26+DevOps;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;Exploring+Data+..."/>
 
 <br><br>
 
@@ -33,7 +33,7 @@
 
 👋 Hi, I’m **Mohammed Sameer**
 
-I’m a **Full-Stack Developer and Data Science enthusiast** focused on building scalable applications and deriving insights from data. I enjoy learning new technologies, contributing to open source, and solving challenging problems.
+I’m a **Full-Stack Developer and Data Science enthusiast** focused on building scalable applications and deriving insights from data. I enjoy learning new technologies, contributing to open source, [...]
 
 🔭 I’m currently working on **advanced React patterns and cloud architecture.**
 
@@ -132,13 +132,13 @@ I’m a **Full-Stack Developer and Data Science enthusiast** focused on building
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=mohammedsameer07s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1120&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api?username=mohammedsameer07s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1120&title_color=A78BFA&text_color=C4B..."/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedsameer07s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0B1120&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedsameer07s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0B1120&title_c..."/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=mohammedsameer07s&theme=dark&hide_border=true&background=0B1120&ring=8B5CF6&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img src="https://streak-stats.demolab.com/?user=mohammedsameer07s&theme=dark&hide_border=true&background=0B1120&ring=8B5CF6&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFF..."/>
 
 </div>
 
