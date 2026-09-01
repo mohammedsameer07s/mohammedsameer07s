@@ -1,3 +1,4 @@
+<body style="backgrouncolor=light-black">
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MOHAMMED%20SAMEER&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DATA%20SCIENCE%20ENTHUSIAST&descSize=16&descAlignY=58&descColor=6366F1&gradient=true&color=0:2563EB,50:6D28D9,100:9333EA"/>
@@ -188,3 +189,4 @@ I’m a **Full-Stack Developer and Data Science enthusiast** focused on building
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&gradient=true&color=0:9333EA,50:6D28D9,100:2563EB"/>
 
 </div>
+</body>
