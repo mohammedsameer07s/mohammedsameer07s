@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohammed Sameer<br>I’m a Full-Stack Developer and Data Science enthusiast focused on building scalable applications and deriving insights from data. I enjoy learning new technologies, contributing to open source, and solving challenging problems.<br><br>🔭 I’m currently working on advanced React patterns and cloud architecture.<br>🌱 I’m learning DevOps practices and Docker.<br>💬 Ask me about web development, ML, or building developer tools.<br>📫 Reach me: mohammedsameer74111@gmail.com<br>
+👋 Hi, I’m Mohammed Sameer<br>I’m a Full-Stack Developer and Data Science enthusiast focused on building scalable applications and deriving insights from data. I enjoy learning new technologies, contributing to open source, and solving challenging problems.<br><br>🔭 I’m currently working on advanced React patterns and cloud architecture.<br>🌱 I’m learning DevOps practices and Docker.<br>💬 Ask me about web development, ML, or building developer tools.<br>
 
 
 ## 🌐 Socials:
