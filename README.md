@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 
-[![Portfolio]https://Sameer7.netlify.app
+[![Portfolio](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) https://Sameer7.netlify.app
 
 [![email]mohammedsameer74111@gmail.com 
 
